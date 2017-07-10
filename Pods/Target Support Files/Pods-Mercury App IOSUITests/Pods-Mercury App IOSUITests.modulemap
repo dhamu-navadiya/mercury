@@ -1,0 +1,6 @@
+framework module Pods_Mercury_App_IOSUITests {
+  umbrella header "Pods-Mercury App IOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
